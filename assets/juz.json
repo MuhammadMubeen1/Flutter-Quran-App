@@ -1,0 +1,456 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "juz": 1,
+            "start": {
+                "chapter": 1,
+                "chapter_arabicname": "سُوْرَةُ الْفَاتِحَةِ",
+                "chapter_name": "Al-Faatiha",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 2,
+                "chapter_arabicname": "سُوْرَةُ البَقَرَةِ",
+                "chapter_name": "Al-Baqara",
+                "verse": 141
+            }
+        },
+        {
+            "juz": 2,
+            "start": {
+                "chapter": 2,
+                "chapter_arabicname": "سُوْرَةُ البَقَرَةِ",
+                "chapter_name": "Al-Baqara",
+                "verse": 142
+            },
+            "end": {
+                "chapter": 2,
+                "chapter_arabicname": "سُوْرَةُ البَقَرَةِ",
+                "chapter_name": "Al-Baqara",
+                "verse": 252
+            }
+        },
+        {
+            "juz": 3,
+            "start": {
+                "chapter": 2,
+                "chapter_arabicname": "سُوْرَةُ البَقَرَةِ",
+                "chapter_name": "Al-Baqara",
+                "verse": 253
+            },
+            "end": {
+                "chapter": 3,
+                "chapter_arabicname": "سُوْرَةُ اٰلِ عِمْرٰنَ",
+                "chapter_name": "Aal-i-Imraan",
+                "verse": 92
+            }
+        },
+        {
+            "juz": 4,
+            "start": {
+                "chapter": 3,
+                "chapter_arabicname": "سُوْرَةُ اٰلِ عِمْرٰنَ",
+                "chapter_name": "Aal-i-Imraan",
+                "verse": 93
+            },
+            "end": {
+                "chapter": 4,
+                "chapter_arabicname": "سُوْرَةُ النِّسَآءِ",
+                "chapter_name": "An-Nisaa",
+                "verse": 23
+            }
+        },
+        {
+            "juz": 5,
+            "start": {
+                "chapter": 4,
+                "chapter_arabicname": "سُوْرَةُ النِّسَآءِ",
+                "chapter_name": "An-Nisaa",
+                "verse": 24
+            },
+            "end": {
+                "chapter": 4,
+                "chapter_arabicname": "سُوْرَةُ النِّسَآءِ",
+                "chapter_name": "An-Nisaa",
+                "verse": 147
+            }
+        },
+        {
+            "juz": 6,
+            "start": {
+                "chapter": 4,
+                "chapter_arabicname": "سُوْرَةُ النِّسَآءِ",
+                "chapter_name": "An-Nisaa",
+                "verse": 148
+            },
+            "end": {
+                "chapter": 5,
+                "chapter_arabicname": "سُوْرَةُ المَآئِدَةِ",
+                "chapter_name": "Al-Maaida",
+                "verse": 81
+            }
+        },
+        {
+            "juz": 7,
+            "start": {
+                "chapter": 5,
+                "chapter_arabicname": "سُوْرَةُ المَآئِدَةِ",
+                "chapter_name": "Al-Maaida",
+                "verse": 82
+            },
+            "end": {
+                "chapter": 6,
+                "chapter_arabicname": "سُوْرَةُ الْاَنْعَامِ",
+                "chapter_name": "Al-An'aam",
+                "verse": 110
+            }
+        },
+        {
+            "juz": 8,
+            "start": {
+                "chapter": 6,
+                "chapter_arabicname": "سُوْرَةُ الْاَنْعَامِ",
+                "chapter_name": "Al-An'aam",
+                "verse": 111
+            },
+            "end": {
+                "chapter": 7,
+                "chapter_arabicname": "سُوْرَةُ الْاَعْرَافِ",
+                "chapter_name": "Al-A'raaf",
+                "verse": 87
+            }
+        },
+        {
+            "juz": 9,
+            "start": {
+                "chapter": 7,
+                "chapter_arabicname": "سُوْرَةُ الْاَعْرَافِ",
+                "chapter_name": "Al-A'raaf",
+                "verse": 88
+            },
+            "end": {
+                "chapter": 8,
+                "chapter_arabicname": "سُوْرَةُ الْاَنْفَالِ",
+                "chapter_name": "Al-Anfaal",
+                "verse": 40
+            }
+        },
+        {
+            "juz": 10,
+            "start": {
+                "chapter": 8,
+                "chapter_arabicname": "سُوْرَةُ الْاَنْفَالِ",
+                "chapter_name": "Al-Anfaal",
+                "verse": 41
+            },
+            "end": {
+                "chapter": 9,
+                "chapter_arabicname": "سُوْرَةُ التَّوْبَةِ",
+                "chapter_name": "At-Tawba",
+                "verse": 92
+            }
+        },
+        {
+            "juz": 11,
+            "start": {
+                "chapter": 9,
+                "chapter_arabicname": "سُوْرَةُ التَّوْبَةِ",
+                "chapter_name": "At-Tawba",
+                "verse": 93
+            },
+            "end": {
+                "chapter": 11,
+                "chapter_arabicname": "سُوْرَةُ هُوْدٍ",
+                "chapter_name": "Hud",
+                "verse": 5
+            }
+        },
+        {
+            "juz": 12,
+            "start": {
+                "chapter": 11,
+                "chapter_arabicname": "سُوْرَةُ هُوْدٍ",
+                "chapter_name": "Hud",
+                "verse": 6
+            },
+            "end": {
+                "chapter": 12,
+                "chapter_arabicname": "سُوْرَةُ يُوسُفَ",
+                "chapter_name": "Yusuf",
+                "verse": 52
+            }
+        },
+        {
+            "juz": 13,
+            "start": {
+                "chapter": 12,
+                "chapter_arabicname": "سُوْرَةُ يُوسُفَ",
+                "chapter_name": "Yusuf",
+                "verse": 53
+            },
+            "end": {
+                "chapter": 14,
+                "chapter_arabicname": "سُوْرَةُ اِبْرَاهِيْمَ",
+                "chapter_name": "Ibrahim",
+                "verse": 52
+            }
+        },
+        {
+            "juz": 14,
+            "start": {
+                "chapter": 15,
+                "chapter_arabicname": "سُوْرَةُ الْحِجْرِ",
+                "chapter_name": "Al-Hijr",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 16,
+                "chapter_arabicname": "سُوْرَةُ النَّحْلِ",
+                "chapter_name": "An-Nahl",
+                "verse": 128
+            }
+        },
+        {
+            "juz": 15,
+            "start": {
+                "chapter": 17,
+                "chapter_arabicname": "سُوْرَةُ الإِسۡرَاءِ",
+                "chapter_name": "Al-Israa",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 18,
+                "chapter_arabicname": "سُوْرَةُ الْكَهْفِ",
+                "chapter_name": "Al-Kahf",
+                "verse": 74
+            }
+        },
+        {
+            "juz": 16,
+            "start": {
+                "chapter": 18,
+                "chapter_arabicname": "سُوْرَةُ الْكَهْفِ",
+                "chapter_name": "Al-Kahf",
+                "verse": 75
+            },
+            "end": {
+                "chapter": 20,
+                "chapter_arabicname": "سُوْرَةُ طٰهٰ",
+                "chapter_name": "Taa-Haa",
+                "verse": 135
+            }
+        },
+        {
+            "juz": 17,
+            "start": {
+                "chapter": 21,
+                "chapter_arabicname": "سُوْرَةُ الْاَنْۣبِيَآءِ",
+                "chapter_name": "Al-Anbiyaa",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 22,
+                "chapter_arabicname": "سُوْرَةُ الْحَجِّ",
+                "chapter_name": "Al-Hajj",
+                "verse": 78
+            }
+        },
+        {
+            "juz": 18,
+            "start": {
+                "chapter": 23,
+                "chapter_arabicname": "سُوْرَةُ الْمُؤْمِنُوْنَ",
+                "chapter_name": "Al-Muminoon",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 25,
+                "chapter_arabicname": "سُوْرَةُ الْفُرْقَانِ",
+                "chapter_name": "Al-Furqaan",
+                "verse": 20
+            }
+        },
+        {
+            "juz": 19,
+            "start": {
+                "chapter": 25,
+                "chapter_arabicname": "سُوْرَةُ الْفُرْقَانِ",
+                "chapter_name": "Al-Furqaan",
+                "verse": 21
+            },
+            "end": {
+                "chapter": 27,
+                "chapter_arabicname": "سُوْرَةُ النَّمْلِ",
+                "chapter_name": "An-Naml",
+                "verse": 55
+            }
+        },
+        {
+            "juz": 20,
+            "start": {
+                "chapter": 27,
+                "chapter_arabicname": "سُوْرَةُ النَّمْلِ",
+                "chapter_name": "An-Naml",
+                "verse": 56
+            },
+            "end": {
+                "chapter": 29,
+                "chapter_arabicname": "سُوْرَةُ الْعَنْكَبُوْتِ",
+                "chapter_name": "Al-Ankaboot",
+                "verse": 45
+            }
+        },
+        {
+            "juz": 21,
+            "start": {
+                "chapter": 29,
+                "chapter_arabicname": "سُوْرَةُ الْعَنْكَبُوْتِ",
+                "chapter_name": "Al-Ankaboot",
+                "verse": 46
+            },
+            "end": {
+                "chapter": 33,
+                "chapter_arabicname": "سُوْرَةُ الْاَحْزَابِ",
+                "chapter_name": "Al-Ahzaab",
+                "verse": 30
+            }
+        },
+        {
+            "juz": 22,
+            "start": {
+                "chapter": 33,
+                "chapter_arabicname": "سُوْرَةُ الْاَحْزَابِ",
+                "chapter_name": "Al-Ahzaab",
+                "verse": 31
+            },
+            "end": {
+                "chapter": 36,
+                "chapter_arabicname": "سُوْرَةُ يٰسٓ",
+                "chapter_name": "Yaseen",
+                "verse": 27
+            }
+        },
+        {
+            "juz": 23,
+            "start": {
+                "chapter": 36,
+                "chapter_arabicname": "سُوْرَةُ يٰسٓ",
+                "chapter_name": "Yaseen",
+                "verse": 28
+            },
+            "end": {
+                "chapter": 39,
+                "chapter_arabicname": "سُوْرَةُ الزُّمَرِ",
+                "chapter_name": "Az-Zumar",
+                "verse": 31
+            }
+        },
+        {
+            "juz": 24,
+            "start": {
+                "chapter": 39,
+                "chapter_arabicname": "سُوْرَةُ الزُّمَرِ",
+                "chapter_name": "Az-Zumar",
+                "verse": 32
+            },
+            "end": {
+                "chapter": 41,
+                "chapter_arabicname": "سُوْرَةُ فُصِّلَتۡ",
+                "chapter_name": "Fussilat",
+                "verse": 46
+            }
+        },
+        {
+            "juz": 25,
+            "start": {
+                "chapter": 41,
+                "chapter_arabicname": "سُوْرَةُ فُصِّلَتۡ",
+                "chapter_name": "Fussilat",
+                "verse": 47
+            },
+            "end": {
+                "chapter": 45,
+                "chapter_arabicname": "سُوْرَةُ الْجَاثِيَةِ",
+                "chapter_name": "Al-Jaathiya",
+                "verse": 37
+            }
+        },
+        {
+            "juz": 26,
+            "start": {
+                "chapter": 46,
+                "chapter_arabicname": "سُوْرَةُ الْاَحْقَافِ",
+                "chapter_name": "Al-Ahqaf",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 51,
+                "chapter_arabicname": "سُوْرَةُ الذَّارِياتِ",
+                "chapter_name": "Adh-Dhaariyat",
+                "verse": 30
+            }
+        },
+        {
+            "juz": 27,
+            "start": {
+                "chapter": 51,
+                "chapter_arabicname": "سُوْرَةُ الذَّارِياتِ",
+                "chapter_name": "Adh-Dhaariyat",
+                "verse": 31
+            },
+            "end": {
+                "chapter": 57,
+                "chapter_arabicname": "سُوْرَةُ الْحَدِيْدِ",
+                "chapter_name": "Al-Hadid",
+                "verse": 29
+            }
+        },
+        {
+            "juz": 28,
+            "start": {
+                "chapter": 58,
+                "chapter_arabicname": "سُوْرَةُ الْمُجَادَلَةِ",
+                "chapter_name": "Al-Mujaadila",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 66,
+                "chapter_arabicname": "سُوْرَةُ التَّحْرِيْمِ",
+                "chapter_name": "At-Tahrim",
+                "verse": 12
+            }
+        },
+        {
+            "juz": 29,
+            "start": {
+                "chapter": 67,
+                "chapter_arabicname": "سُوْرَةُ الْمُلْكِ",
+                "chapter_name": "Al-Mulk",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 77,
+                "chapter_arabicname": "سُوْرَةُ الْمُرْسَلَاتِ",
+                "chapter_name": "Al-Mursalaat",
+                "verse": 50
+            }
+        },
+        {
+            "juz": 30,
+            "start": {
+                "chapter": 78,
+                "chapter_arabicname": "سُوْرَةُ النَّبَاِ",
+                "chapter_name": "An-Naba",
+                "verse": 1
+            },
+            "end": {
+                "chapter": 114,
+                "chapter_arabicname": "سُوْرَةُ النَّاسِ",
+                "chapter_name": "An-Naas",
+                "verse": 6
+            }
+        }
+    ],
+    "message": "Juzs listed successfully"
+}
